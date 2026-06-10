@@ -8,8 +8,8 @@
 		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-author-plugin-v1.1.1/red-palm-author-plugin.1.1.1.zip"
 	},
 	"red-palm-global-plugin/red-palm-global-plugin.php": {
-		"version": "1.2.20",
-		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-global-plugin-v1.2.20/red-palm-global-plugin.1.2.20.zip"
+		"version": "1.2.21",
+		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-global-plugin-v1.2.21/red-palm-global-plugin.1.2.21.zip"
 	},
 	"rp-control-center/rp-control-center.php": {
 		"version": "1.0.6",
