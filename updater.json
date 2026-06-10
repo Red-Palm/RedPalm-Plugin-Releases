@@ -20,12 +20,12 @@
 		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-author-plugin-v1.1.1/red-palm-author-plugin.1.1.1.zip"
 	},
 	"red-palm-global-plugin/red-palm-global-plugin.php": {
-		"version": "1.2.11",
-		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-global-plugin-v1.2.11/red-palm-global-plugin.1.2.11.zip"
+		"version": "1.2.12",
+		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-global-plugin-v1.2.12/red-palm-global-plugin.1.2.12.zip"
 	},
 	"rp-control-center/rp-control-center.php": {
-		"version": "1.0.1",
-		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/rp-control-center-v1.0.1/rp-control-center.1.0.1.zip"
+		"version": "1.0.2",
+		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/rp-control-center-v1.0.2/rp-control-center.1.0.2.zip"
 	},
 	"rp-google-reviews/rp-google-reviews.php": {
 		"version": "1.4.1",
