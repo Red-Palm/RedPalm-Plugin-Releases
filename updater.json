@@ -1,27 +1,15 @@
 {
-	"adrotate-reduce-ajax-plugin/adrotate-reduce-ajax-plugin.php": {
-		"version": "1.0.1",
-		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/adrotate-reduce-ajax-plugin-v1.0.1/adrotate-reduce-ajax-plugin.1.0.1.zip"
-	},
 	"firelight-clean-and-clear-after-pull/firelight-clean-and-clear-after-pull.php": {
 		"version": "1.0.3",
 		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/firelight-clean-and-clear-after-pull-v1.0.3/firelight-clean-and-clear-after-pull.1.0.3.zip"
-	},
-	"gf-default-notifications/gf-default-notifications.php": {
-		"version": "1.0.2",
-		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/gf-default-notifications-v1.0.2/gf-default-notifications.1.0.2.zip"
-	},
-	"hufsey-service-titan-forms/hufsey-service-titan-forms.php": {
-		"version": "1.0.4",
-		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/hufsey-service-titan-forms-v1.0.4/hufsey-service-titan-forms.1.0.4.zip"
 	},
 	"red-palm-author-plugin/red-palm-author-plugin.php": {
 		"version": "1.1.1",
 		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-author-plugin-v1.1.1/red-palm-author-plugin.1.1.1.zip"
 	},
 	"red-palm-global-plugin/red-palm-global-plugin.php": {
-		"version": "1.2.12",
-		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-global-plugin-v1.2.12/red-palm-global-plugin.1.2.12.zip"
+		"version": "1.2.13",
+		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-global-plugin-v1.2.13/red-palm-global-plugin.1.2.13.zip"
 	},
 	"rp-control-center/rp-control-center.php": {
 		"version": "1.0.2",
