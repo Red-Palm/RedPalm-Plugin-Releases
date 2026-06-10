@@ -12,8 +12,8 @@
 		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-global-plugin-v1.2.15/red-palm-global-plugin.1.2.15.zip"
 	},
 	"rp-control-center/rp-control-center.php": {
-		"version": "1.0.3",
-		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/rp-control-center-v1.0.3/rp-control-center.1.0.3.zip"
+		"version": "1.0.4",
+		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/rp-control-center-v1.0.4/rp-control-center.1.0.4.zip"
 	},
 	"rp-google-reviews/rp-google-reviews.php": {
 		"version": "1.4.1",
