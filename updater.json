@@ -8,19 +8,19 @@
 		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-author-plugin-v1.1.1/red-palm-author-plugin.1.1.1.zip"
 	},
 	"red-palm-global-plugin/red-palm-global-plugin.php": {
-		"version": "1.2.26",
-		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-global-plugin-v1.2.26/red-palm-global-plugin.1.2.26.zip"
+		"version": "1.2.27",
+		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-global-plugin-v1.2.27/red-palm-global-plugin.1.2.27.zip"
+	},
+	"redpalm-seo-google-reviews/redpalm-seo-google-reviews.php": {
+		"version": "1.1.0",
+		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/redpalm-seo-google-reviews-v1.1.0/redpalm-seo-google-reviews.1.1.0.zip"
 	},
 	"rp-control-center/rp-control-center.php": {
-		"version": "1.0.7",
-		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/rp-control-center-v1.0.7/rp-control-center.1.0.7.zip"
+		"version": "1.0.8",
+		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/rp-control-center-v1.0.8/rp-control-center.1.0.8.zip"
 	},
 	"rp-google-reviews/rp-google-reviews.php": {
-		"version": "1.4.1",
-		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/rp-google-reviews-v1.4.1/rp-google-reviews.1.4.1.zip"
-	},
-	"seohydra-google-reviews/seohydra-google-reviews.php": {
-		"version": "1.1.0",
-		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/seohydra-google-reviews-v1.1.0/seohydra-google-reviews.1.1.0.zip"
+		"version": "1.4.2",
+		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/rp-google-reviews-v1.4.2/rp-google-reviews.1.4.2.zip"
 	}
 }
