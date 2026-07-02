@@ -24,7 +24,7 @@
 		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/rp-google-reviews-v1.4.2/rp-google-reviews.1.4.2.zip"
 	},
 	"rp-map/rp-map.php": {
-		"version": "1.0.0",
-		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/rp-map-v1.0.0/rp-map.1.0.0.zip"
+		"version": "1.0.1",
+		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/rp-map-v1.0.1/rp-map.1.0.1.zip"
 	}
 }
