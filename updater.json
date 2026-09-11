@@ -12,8 +12,8 @@
 		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-author-v1.0.0/red-palm-author.1.0.0.zip"
 	},
 	"red-palm-global-plugin/red-palm-global-plugin.php": {
-		"version": "1.2.38",
-		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-global-plugin-v1.2.38/red-palm-global-plugin.1.2.38.zip"
+		"version": "1.2.39",
+		"package": "https://github.com/Red-Palm/RedPalm-Plugin-Releases/releases/download/red-palm-global-plugin-v1.2.39/red-palm-global-plugin.1.2.39.zip"
 	},
 	"redpalm-seo-google-reviews/redpalm-seo-google-reviews.php": {
 		"version": "1.1.0",
